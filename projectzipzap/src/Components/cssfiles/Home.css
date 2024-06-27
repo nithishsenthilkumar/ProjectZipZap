@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+.homepage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.profileArea{
+    background-color: beige;
+    margin-top: 100px;
+    height: max-content;
+    padding: 60px;
+    border-radius: 30px;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: large;
+    text-align: center;
+}
+
+.packageTrack{
+    background-color: beige;
+    margin-top: 100px;
+    height: max-content;
+    padding: 60px;
+    border-radius: 30px;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: large;
+    text-align: left;
+}
+.packageHistory{ 
+    background-color: beige;
+    margin-top: 100px;
+    height: max-content;
+    padding: 60px;
+    border-radius: 30px;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: large;
+    text-align: left;
+}
+
+
+#update{
+    font-family: 'Kanit', sans-serif;
+    font-size: large;
+    letter-spacing: 1px;
+    border: solid 2px black;
+}
