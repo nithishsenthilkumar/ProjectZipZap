@@ -1,0 +1,37 @@
+.signup{
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.formbox{
+    background-color: #0e0e0e;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+    border-radius: 5px;
+}
+
+.inputarea{
+    color: rgba(7, 2, 0, 0.705);
+    border-radius: 5px;
+    background-color: #c5a61bb7;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    padding: 2vw;
+}
+
+
+.logo{
+    width: 25vw;
+    height: 45vh;
+}
